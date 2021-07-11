@@ -1,7 +1,7 @@
 env/
 development/
 
-static/
+/static/
 db.sqlite3
 
 dental/__pycache__/
